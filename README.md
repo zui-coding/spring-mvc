@@ -1,2 +1,2 @@
 # spring-mvc
-spring mc demo
+spring mvc demo by contains hibernate validation
